@@ -22,9 +22,8 @@ The format should be Runs/Wickets (Overs.Balls). For example, 45/3 (15.2) means 
 • No extra runs is scored on the NO Ball .The scorer can notedown this and add maually in the end</br>
 
 ## License
-
+MIT</br>
 [![N|Solid](https://i.ibb.co/KmV8yP5/icons8-c-programming-48.png)](https://devdocs.io/c/)
-MIT
 
 
 
