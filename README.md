@@ -7,7 +7,7 @@
 The format should be Runs/Wickets (Overs.Balls). For example, 45/3 (15.2) means that 45 runs have been scored in 15 overs and 2 balls for the loss of 3 wickets</br>
 
 >The LCD should show the events of the current over on the second line in thefollowing format</br>
-``• The event which occurred on a ball is denoted by a single character``</br>
+ • The event which occurred on a ball is denoted by a single character</br>
 `• A dot ball is denoted by a period symbol (also called the fullstop symbol)`</br>
 `• Runs scored on a ball are denoted by the single digit number.`</br>
 `• If a wicket falls in a ball, it is denoted by the W character.`</br>
