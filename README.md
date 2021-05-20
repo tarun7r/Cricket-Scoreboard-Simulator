@@ -8,11 +8,11 @@ The format should be Runs/Wickets (Overs.Balls). For example, 45/3 (15.2) means 
 
 >The LCD should show the events of the current over on the second line in thefollowing format</br>
  • The event which occurred on a ball is denoted by a single character</br>
-`• A dot ball is denoted by a period symbol (also called the fullstop symbol)`</br>
-`• Runs scored on a ball are denoted by the single digit number.`</br>
-`• If a wicket falls in a ball, it is denoted by the W character.`</br>
-`• A wide ball is denoted by the E character`</br>
-`•  A no-ball is denoted by the N character`</br>
+ • A dot ball is denoted by a period symbol (also called the fullstop symbol)</br>
+ • Runs scored on a ball are denoted by the single digit number</br>
+ • If a wicket falls in a ball, it is denoted by the W character</br>
+ • A wide ball is denoted by the E character</br>
+ •  A no-ball is denoted by the N character</br>
 
 >• At the start of a game, the first line will show 0/0 (0.0).</br>
 >•  The scorer will press a series of keys which will move the game forward and change the scoreboard state.</br>
