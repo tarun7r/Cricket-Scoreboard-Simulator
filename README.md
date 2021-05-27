@@ -14,13 +14,13 @@ The format should be Runs/Wickets (Overs.Balls). For example, 45/3 (15.2) means 
  <li>If a wicket falls in a ball, it is denoted by the W character</br>
  <li>A wide ball is denoted by the E character</br> 
  <li>A no-ball is denoted by the N character</br>
-
->• At the start of a game, the first line will show 0/0 (0.0).</br>
->•  The scorer will press a series of keys which will move the game forward and change the scoreboard state.</br>
-
-> Exceptions:</br>
-• No Bowler bowls more than 16 balls in an over</br>
-• No extra runs is scored on the NO Ball .The scorer can notedown this and add maually in the end</br>
+ <li>At the start of a game, the first line will show 0/0 (0.0).</br>
+ <li>The scorer will press a series of keys which will move the game forward and change the scoreboard state.</br>
+ </ul>
+ <p>Exceptions:</br>
+ <ul>
+ <li>No Bowler bowls more than 16 balls in an over</br>
+ <li>No extra runs is scored on the NO Ball .The scorer can notedown this and add maually in the end</br>
 
 
 
